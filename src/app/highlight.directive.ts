@@ -8,4 +8,4 @@ export class HighlightDirective {
     constructor(elem:ElementRef){
         elem.nativeElement.style.color ="#EAC435"
     }
-}
+};
