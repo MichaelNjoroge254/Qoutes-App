@@ -27,7 +27,7 @@ hr {
 
 @font-face {
     font-family: 'dosis-bold';
-    src: url("../../assets/headphones.jpeg") format("truetype");
+    src: url("../../assets/orange.jpeg") format("truetype");
 }
 
 #highlighted {
@@ -53,7 +53,7 @@ button {
     position: fixed;
     width: 100%;
     z-index: 1;
-    color: #eef0f2;
+    color: #ebeeed;
     background-color: #494949;
     margin: 0px;
     padding-left: 0px;
