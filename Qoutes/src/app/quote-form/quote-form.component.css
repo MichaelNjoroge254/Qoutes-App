@@ -1,0 +1,39 @@
+.form-control {
+    background-color: #c4bfc2;
+    color: #EEF0F2;
+    border-color: #EEF0F2;
+    border-radius: 1px;
+    /* float: right; */
+}
+
+hr {
+    background-color: #acdfe2;
+}
+
+#form {
+    position: absolute;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    float: right;
+}
+
+@media only screen and (max-width: 768px) {
+    #form {
+        position: absolute;
+        width: 100%;
+    }
+}
+
+p,
+label {
+    font-size: 24px;
+}
+
+button {
+    font-size: 24px;
+    border-radius: 25px;
+    font-family: 'dosis-bold';
+}

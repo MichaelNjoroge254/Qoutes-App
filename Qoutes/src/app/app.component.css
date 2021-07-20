@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'dosis';
+    src: url("../assets/headphones.jpeg") format("truetype");
+}
+
+* {
+    font-family: 'dosis';
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fbfdff;
+    text-align: center;
+    background-color: #5bf147;
+    height: 100%;
+}
