@@ -11,4 +11,4 @@ export class AppComponent {
   constructor() {
     document.body.style.background = '#333333';
   }
-}
+};
