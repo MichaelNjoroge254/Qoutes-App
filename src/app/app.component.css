@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'dosis';
-    src: url("../assets/headphones.jpeg") format("truetype");
+    src: url("../assets/orange.jpeg") format("truetype");
 }
 
 * {
@@ -12,4 +12,4 @@
     text-align: center;
     background-color: #3c9730;
     height: 100%;
-}
+};
